@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-  <MyTag foo_bar="OK" foo-bar="OK" />
+  <MyTag foo_bar="OK" foo-bar="OK" other="OK" />
 </div>
 </template>
 
