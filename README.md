@@ -6,3 +6,8 @@ Procedure to run:
 npm i
 npm run dev:wc
 ```
+
+This may be related:
+
+https://github.com/vuejs/vue-web-component-wrapper/blob/master/src/index.js
+https://github.com/vuejs/vue-web-component-wrapper/blob/master/src/utils.js
